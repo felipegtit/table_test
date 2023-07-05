@@ -1,0 +1,16 @@
+[{
+  "name": "Author",
+  "id": 1
+},
+{
+  "name": "Book",
+  "id": 2
+},
+{
+  "name": "Publisher",
+  "id": 3
+},
+{
+  "name": "Genre",
+  "id": 4
+}]
